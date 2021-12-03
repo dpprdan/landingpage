@@ -1,0 +1,18 @@
+---
+title: "Daniel Possenriede"
+image: "dpprdan.jpg"
+css: "main.css"
+links:
+  - label: Twitter
+    url: "https://twitter.com/dpprdan/"
+  - label: GitHub
+    url: "https://github.com/dpprdan/"
+  - label: SO
+    url: "https://stackoverflow.com/users/2114932/"
+output:
+  postcards::jolla_blue
+---
+ 
+Daniel works with data, mostly in R, PostgreSQL and GitLab/GitHub. 
+
+He holds a PhD from [U.S.E.](https://www.uu.nl/use) and is currently employed at [QUIS](https://quis.de/). 
