@@ -3,6 +3,8 @@ title: "Daniel Possenriede"
 image: "dpprdan.jpg"
 css: "main.css"
 links:
+  - label: mastodon
+    url: "https://mas.to/\\@dpprdan/"
   - label: Twitter
     url: "https://twitter.com/dpprdan/"
   - label: GitHub
