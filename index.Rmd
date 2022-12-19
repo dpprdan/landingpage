@@ -3,13 +3,13 @@ title: "Daniel Possenriede"
 image: "dpprdan.jpg"
 css: "main.css"
 links:
-  - label: mastodon
+  - label: '`r fontawesome::fa("mastodon", height = "2em", a11y = "sem")`'
     url: "https://mas.to/\\@dpprdan/"
-  - label: Twitter
+  - label: '`r fontawesome::fa("twitter", height = "2em", a11y = "sem")`'
     url: "https://twitter.com/dpprdan/"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github", height = "2em", a11y = "sem")`'
     url: "https://github.com/dpprdan/"
-  - label: SO
+  - label: '`r fontawesome::fa("stack-overflow", height = "2em", a11y = "sem")`'
     url: "https://stackoverflow.com/users/2114932/"
 output:
   postcards::jolla_blue
