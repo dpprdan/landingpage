@@ -5,6 +5,7 @@ css: "main.css"
 links:
   - label: '`r fontawesome::fa("mastodon", height = "2em", a11y = "sem")`'
     url: "https://mas.to/\\@dpprdan/"
+    rel: me
   - label: '`r fontawesome::fa("twitter", height = "2em", a11y = "sem")`'
     url: "https://twitter.com/dpprdan/"
   - label: '`r fontawesome::fa("github", height = "2em", a11y = "sem")`'
@@ -14,7 +15,7 @@ links:
 output:
   postcards::jolla_blue
 ---
- 
+
 Daniel works with data, mostly in R, PostgreSQL and GitLab/GitHub. 
 
 He holds a PhD from [U.S.E.](https://www.uu.nl/use) and is currently employed at [QUIS](https://quis.de/). 
