@@ -4,7 +4,7 @@ image: "dpprdan.jpg"
 css: "main.css"
 links:
   - label: '`r fontawesome::fa("mastodon", height = "2em", a11y = "sem")`'
-    url: "https://mas.to/\\@dpprdan/"
+    url: "https://mas.to/\\@dpprdan"
     rel: me
   - label: '`r fontawesome::fa("twitter", height = "2em", a11y = "sem")`'
     url: "https://twitter.com/dpprdan/"
