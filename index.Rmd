@@ -6,12 +6,12 @@ links:
   - label: '`r fontawesome::fa("mastodon", height = "2em", a11y = "sem")`'
     url: "https://mas.to/\\@dpprdan"
     rel: me
-  - label: '`r fontawesome::fa("twitter", height = "2em", a11y = "sem")`'
-    url: "https://twitter.com/dpprdan/"
   - label: '`r fontawesome::fa("github", height = "2em", a11y = "sem")`'
     url: "https://github.com/dpprdan/"
   - label: '`r fontawesome::fa("stack-overflow", height = "2em", a11y = "sem")`'
     url: "https://stackoverflow.com/users/2114932/"
+  - label: '`r fontawesome::fa("linkedin", height = "2em", a11y = "sem")`'
+    url: "https://www.linkedin.com/in/possenriede/"
 output:
   postcards::jolla_blue
 ---
