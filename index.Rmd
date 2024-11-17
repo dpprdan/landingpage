@@ -16,6 +16,6 @@ output:
   postcards::jolla_blue
 ---
 
-Daniel works with data, mostly in R, PostgreSQL and GitLab/GitHub. 
+Daniel works with data in R, SQL and Python. 
 
-He holds a PhD from [U.S.E.](https://www.uu.nl/use) and is currently employed at [Die Techniker](https://www.tk.de/en). 
+He holds a PhD from [U.S.E.](https://www.uu.nl/use) and is currently employed at [TK](https://www.tk.de/en). 
