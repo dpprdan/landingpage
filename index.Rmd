@@ -18,4 +18,4 @@ output:
 
 Daniel works with data, mostly in R, PostgreSQL and GitLab/GitHub. 
 
-He holds a PhD from [U.S.E.](https://www.uu.nl/use) and is currently employed at [QUIS](https://quis.de/). 
+He holds a PhD from [U.S.E.](https://www.uu.nl/use) and is currently employed at [Die Techniker](https://www.tk.de/en). 
